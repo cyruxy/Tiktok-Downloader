@@ -1,6 +1,6 @@
 <p align="center">
 <img src="tiktok_downloader/static/tiktok.svg"><br>
-<img src="https://img.shields.io/badge/AUTHOR-KRYPTON--BYTE-brightgreen">
+<img src="https://img.shields.io/badge/AUTHOR-CYRUXY--BYTE-brightgreen">
 </p>
 <center>
     
